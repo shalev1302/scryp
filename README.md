@@ -1,0 +1,2 @@
+# scryp
+my first Cryptocurrency 
